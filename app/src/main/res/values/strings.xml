@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yuhan</string>
+    <string name="shell_activity_home_bottom_home">首页</string>
+    <string name="shell_activity_home_bottom_recommend">逛逛</string>
+    <string name="shell_activity_home_bottom_message">信箱</string>
+    <string name="shell_activity_home_bottom_mine">我的</string>
+</resources>

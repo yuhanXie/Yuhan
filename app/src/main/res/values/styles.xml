@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <declare-styleable name="AdvancedTabLayout">
+        <attr name="advancedTabPadding" format="dimension" />
+        <attr name="advancedTabPaddingStart" format="dimension" />
+        <attr name="advancedTabPaddingTop" format="dimension" />
+        <attr name="advancedTabPaddingEnd" format="dimension" />
+        <attr name="advancedTabPaddingBottom" format="dimension" />
+        <attr name="advancedTabIndicatorHeight" format="dimension" />
+        <attr name="advancedTabIndicatorWidth" format="dimension" />
+        <attr name="advancedTabIndicatorCornerRadius" format="dimension" />
+        <attr name="advancedTabIndicatorColor" format="color" />
+        <attr name="advancedTabIndicatorMarginLeft" format="dimension" />
+        <attr name="advancedTabIndicatorMarginTop" format="dimension" />
+        <attr name="advancedTabIndicatorMarginRight" format="dimension" />
+        <attr name="advancedTabIndicatorMarginBottom" format="dimension" />
+        <attr name="advancedTabTextColor" format="color" />
+        <attr name="advancedTabSelectedTextColor" format="color" />
+        <attr name="advancedTabBackgroundColor" format="reference|color" />
+        <attr name="advancedTabSelectedBackgroundColor" format="reference|color" />
+        <attr name="advancedTabModeFixed" format="boolean" />
+        <attr name="advancedTabTextSize" format="dimension" />
+        <attr name="advancedTabTextBold" format="boolean" />
+        <attr name="advancedTabSelectedTextSize" format="dimension" />
+        <attr name="advancedTabTextSelectedBold" format="boolean" />
+        <attr name="advancedTabDisplayNum" format="integer" />
+        <attr name="advancedTabTextAllCaps" format="boolean" />
+        <attr name="advancedTabTextMaxScale" format="float" />
+    </declare-styleable>
+
+</resources>
